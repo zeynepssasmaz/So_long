@@ -22,7 +22,7 @@
 ```bash
 sudo apt-get install xorg libxext-dev zlib1g-dev libbsd-dev
 sudo apt-get install vlc
-git clone https://github.com/il94/42_so_long so_long
+git clone https://github.com/zeynepssasmaz/so_long
 cd so_long && make -j
 ```
 
